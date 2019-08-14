@@ -9,6 +9,4 @@ LABEL "homepage"="https://github.com/JasonEtco/action-git"
 LABEL "maintainer"="Ante Wall <antewall@gmail.com>"
 
 ADD entrypoint.sh /entrypoint.sh
-
-ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
