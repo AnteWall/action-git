@@ -17,3 +17,5 @@ jobs:
       run: |
         npm install
         npm run test-diff
+    - name: Test Diff action
+      uses: ./action-git
