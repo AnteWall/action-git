@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "author": {
+    "email": "antewall@gmail.com",
+    "name": "Ante Wall"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test-diff": "touch test.txt"
+  }
+}
